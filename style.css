@@ -359,7 +359,16 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .img-style{
 	height:380px;
 	width:480px;
-	border-radius:31px 31px 31px 31px;
+	border-radius:27px 27px 27px 27px;
+}
+.img-http-pic-style{
+	border-radius:28px 28px 28px 28px;
+}
+.img-bloc-4-style{
+	border-radius:27px 27px 27px 27px;
+}
+.img-14167899968-style{
+	border-radius:25px 25px 25px 25px;
 }
 
 /* = Colour
